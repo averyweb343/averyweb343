@@ -1,16 +1,17 @@
-## Hi there 👋
+### hey, i'm averyweb343
 
-<!--
-**averyweb343/averyweb343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+systems dev based in singapore. spending most of my time writing rust, poking at linux internals, and compiling things to webassembly.
 
-Here are some ideas to get you started:
+#### what i'm doing
+- hacking on custom allocator experiments and small cli tools in rust
+- running native c/rust code on wasm runtimes
+- building toy OS modules on weekend nights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### stack
+- **core:** rust, c, linux, bash
+- **tools:** git, gdb, perf, neovim, make
+- **exploring:** zig, eBPF, webassembly specs
+
+#### find me
+- email: averyweb343@proton.me
+- matrix: @avery:matrix.org
